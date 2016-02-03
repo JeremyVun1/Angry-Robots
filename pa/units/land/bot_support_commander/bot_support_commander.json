@@ -1,7 +1,7 @@
 {
   "base_spec": "/pa/units/parent/land/bot_support_commander/bot_support_commander.json",
   "build_metal_cost": 5000,
-  "max_health": 6000,
+  "max_health": 7000,
   "navigation": {
     "move_speed": 14
   },

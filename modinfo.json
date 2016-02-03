@@ -7,11 +7,11 @@
   "context": "server",
   "date": "2016/01/25",
   "description": "Light balance rework mod addressing the game's limited scope of viable choices",
-  "display_name": "Angry Robots",
+  "display_name": "Angry Robots dev",
   "enabled": true,
   "forum": "https://forums.uberent.com/threads/angry-robots.71297/#post-1123436",
   "icon": "",
-  "identifier": "com.pa.angry.robots",
+  "identifier": "com.pa.angry.robots.dev",
   "priority": 100,
   "signature": "(not yet implemented)",
   "version": "1.4"

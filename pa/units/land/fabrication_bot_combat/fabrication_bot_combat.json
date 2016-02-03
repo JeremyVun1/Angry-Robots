@@ -5,18 +5,9 @@
   "navigation": {
     "move_speed": 14
   },
-  "unit_types": [
-	"UNITTYPE_Fabber",
-	"UNITTYPE_Construction",
-	"UNITTYPE_Bot",	
-	"UNITTYPE_Mobile",
-	"UNITTYPE_Land",
-	"UNITTYPE_Basic",
-	"UNITTYPE_FactoryBuild",
-	"UNITTYPE_CannonBuildable"
-  ],
   "command_caps": [
 	"ORDER_Move",
+	"ORDER_Attack",
 	"ORDER_Patrol",
 	"ORDER_Build",
 	"ORDER_Reclaim",
