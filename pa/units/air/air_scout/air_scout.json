@@ -1,0 +1,13 @@
+{
+  "base_spec": "/pa/units/parent/air/air_scout/air_scout.json",
+  "navigation": {
+    "move_speed": 60
+  },
+  "unit_types": [
+    "UNITTYPE_Scout",
+    "UNITTYPE_Mobile",
+    "UNITTYPE_Air",
+    "UNITTYPE_Basic",
+    "UNITTYPE_FactoryBuild"
+  ]
+}

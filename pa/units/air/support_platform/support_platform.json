@@ -1,0 +1,28 @@
+{
+  "base_spec": "/pa/units/parent/air/support_platform/support_platform.json",
+  "build_metal_cost": 2000,
+  "max_health": 750,
+  "navigation": {
+    "move_speed": 30
+  },
+  "recon": {
+    "observer": {
+      "items": [
+        {
+          "channel": "sight",
+          "layer": "surface_and_air",
+          "radius": 150,
+          "shape": "capsule"
+        }
+      ]
+    }
+  },
+  "unit_types": [
+    "UNITTYPE_Air",
+	"UNITTYPE_Offense",
+    "UNITTYPE_Mobile",
+    "UNITTYPE_MissileDefense",
+    "UNITTYPE_Advanced",
+    "UNITTYPE_FactoryBuild"
+  ]
+}

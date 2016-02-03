@@ -1,0 +1,27 @@
+{ 
+  "description": "!LOC:Railgun Platform- Long-range. High damage. Very low rate of fire, can attack anything",
+  "base_spec": "/pa/units/parent/orbital/orbital_railgun/orbital_railgun.json",
+  "build_metal_cost": 2500,
+  "guard_layer": "WL_AnySurface",
+  "planetary_arrival_cooldown_time": 4.0,
+  "navigation": {
+    "acceleration": 10,
+	"aggressive_distance": 300,
+    "bank_factor": 1,
+    "brake": 10,
+    "circle_max_time": 4,
+    "circle_min_time": 2,
+    "hover_time": -1.0,
+    "move_speed": 10,
+    "turn_in_place": true,
+    "turn_speed": 30,
+    "type": "orbital"
+  },
+  "tools": [
+    {
+      "aim_bone": "bone_root",
+      "muzzle_bone": "socket_muzzle",
+      "spec_id": "/pa/units/orbital/orbital_railgun/orbital_railgun_tool_weapon.json"
+    }
+  ]
+}

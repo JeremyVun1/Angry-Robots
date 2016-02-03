@@ -1,0 +1,8 @@
+{
+  "base_spec": "/pa/units/parent/air/fighter_adv/fighter_adv.json",
+  "build_metal_cost": 850,
+  "max_health": 300,
+  "navigation": {
+    "move_speed": 60
+  }
+}

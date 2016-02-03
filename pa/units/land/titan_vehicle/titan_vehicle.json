@@ -1,0 +1,5 @@
+{
+  "base_spec": "/pa/units/parent/land/titan_vehicle/titan_vehicle.json",
+  "build_metal_cost": 30000,
+  "max_health": 40000
+}

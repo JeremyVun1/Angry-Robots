@@ -1,0 +1,5 @@
+{
+  "base_spec": "/pa/units/parent/orbital/orbital_factory/orbital_factory.json",
+  "build_metal_cost": 3400,
+  "max_health": 5000
+}

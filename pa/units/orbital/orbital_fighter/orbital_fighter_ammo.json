@@ -1,0 +1,6 @@
+{
+  "base_spec": "/pa/units/parent/orbital/orbital_fighter/orbital_fighter_ammo.json",
+  "damage": 35,
+  "initial_velocity": 500.0,
+  "max_velocity": 500.0
+}

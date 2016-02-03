@@ -1,0 +1,27 @@
+{
+  "ammo_id": "/pa/units/air/gunship/gunship_missile_ammo.json",
+  "auto_attack": true,
+  "base_spec": "/pa/tools/base_missile_tactical_turret/base_missile_tactical_turret.json",
+  "max_range": 70,
+  "pitch_range": 100,
+  "pitch_rate": 360,
+  "rate_of_fire": 6.0,
+  "ammo_capacity": 8,
+  "ammo_demand": 0.7,
+  "ammo_per_shot": 1,
+  "ammo_source": "time",
+  "carpet_fire": true,
+  "carpet_wait_for_full_ammo": true,
+  "firing_standard_deviation": 6,
+  "spread_fire": true,
+  "target_layers": [
+    "WL_LandHorizontal",
+    "WL_WaterSurface",
+    "WL_Seafloor"
+  ],
+  "target_priority": [
+	"Bot & Mobile & Basic"
+  ],
+  "yaw_range": 90,
+  "yaw_rate": 360
+}

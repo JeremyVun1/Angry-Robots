@@ -1,0 +1,8 @@
+{
+  "base_spec": "/pa/units/parent/land/assault_bot/assault_bot.json",
+  "navigation": {
+    "acceleration": 37,
+    "move_speed": 19,
+    "turn_speed": 480
+  }
+}

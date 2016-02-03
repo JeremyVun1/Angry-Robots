@@ -1,0 +1,7 @@
+{
+  "base_spec": "/pa/units/parent/air/bomber/bomber.json",
+  "metal_cost": 300,
+  "navigation": {
+    "move_speed": 60
+  }
+}

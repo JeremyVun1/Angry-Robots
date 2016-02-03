@@ -1,0 +1,28 @@
+{
+  "ammo_capacity": 900,
+  "ammo_demand": 30,
+  "ammo_id": "/pa/units/orbital/orbital_battleship/orbital_battleship_launch_ammo.json",
+  "ammo_per_shot": 100,
+  "ammo_source": "metal",
+  "start_fully_charged": true,
+  "auto_attack": true,
+  "base_spec": "/pa/tools/base_missile_tactical_turret/base_missile_tactical_turret.json",
+  "firing_arc_pitch": 180,
+  "firing_arc_yaw": 180,
+  "max_range": 300,
+  "pitch_range": 45,
+  "pitch_rate": 180,
+  "rate_of_fire": 2.0,
+  "spread_fire": true,
+  "target_layers": [
+    "WL_Orbital"
+  ],
+  "target_priorities": [
+    "Orbital"
+  ],
+  
+  "range_height": 100,
+  
+  "yaw_range": 30,
+  "yaw_rate": 180
+}

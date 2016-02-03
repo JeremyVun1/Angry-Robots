@@ -1,0 +1,6 @@
+{
+  "base_spec": "/pa/units/parent/land/tank_hover/tank_hover.json",
+  "navigation": {
+    "move_speed": 16
+  }
+}

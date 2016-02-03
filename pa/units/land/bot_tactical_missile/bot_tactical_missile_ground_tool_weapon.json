@@ -1,0 +1,8 @@
+{
+  "base_spec": "/pa/units/parent/land/bot_tactical_missile/bot_tactical_missile_tool_weapon.json",
+  "max_range": 180,
+  "target_layers": [
+    "WL_LandHorizontal",
+    "WL_WaterSurface"
+  ]
+}

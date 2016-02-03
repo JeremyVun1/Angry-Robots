@@ -1,0 +1,7 @@
+{
+  "base_spec": "/pa/units/parent/air/fabrication_aircraft/fabrication_aircraft.json",
+  "max_health": 50,
+  "navigation": {
+    "move_speed": 30
+  }
+}

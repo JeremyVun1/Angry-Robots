@@ -1,0 +1,7 @@
+{
+  "base_spec": "/pa/units/parent/air/solar_drone/solar_drone_tool_weapon.json",
+  "max_range": 75,
+  "ammo_capacity": 1750,
+  "ammo_demand": 125,
+  "ammo_per_shot": 350
+}

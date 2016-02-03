@@ -1,0 +1,10 @@
+{
+  "area_build_type": "Sphere",
+	"area_build_pattern": [
+		[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+	],
+  "area_build_separation": 1.0,
+  "build_metal_cost": 20,
+  "max_health": 5,
+  "base_spec": "/pa/units/parent/land/land_mine/land_mine.json"
+}

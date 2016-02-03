@@ -1,0 +1,9 @@
+{
+  "base_spec": "/pa/units/parent/land/fabrication_bot_combat_adv/fabrication_bot_combat_adv_build_arm.json",
+  "construction_demand": {
+    "energy": 0,
+    "metal": 140
+  },
+  "max_range": 100,
+  "yaw_rate": 3600
+}

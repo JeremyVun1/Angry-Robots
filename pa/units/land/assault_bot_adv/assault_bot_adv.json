@@ -1,0 +1,36 @@
+{
+  "base_spec": "/pa/units/parent/land/assault_bot_adv/assault_bot_adv.json",
+  "build_metal_cost": 450,
+  "max_health": 500,
+  "guard_radius": 10,
+  "navigation": {
+    "aggressive_distance": 100,
+    "acceleration": 50,
+    "brake": 50,
+    "move_speed": 14,
+    "turn_speed": 720,
+    "type": "amphibious"
+  },
+  "physics": {
+	"push_class": 2,
+    "radius": 3.5
+  },
+  "recon": {
+    "observer": {
+      "items": [
+        {
+          "channel": "sight",
+          "layer": "surface_and_air",
+          "radius": 100,
+          "shape": "capsule"
+        },
+        {
+          "channel": "sight",
+          "layer": "underwater",
+          "radius": 100,
+          "shape": "capsule"
+        }
+      ]
+    }
+  }
+}

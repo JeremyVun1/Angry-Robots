@@ -1,0 +1,21 @@
+{
+  "base_spec": "/pa/units/parent/land/bot_nanoswarm/bot_nanoswarm.json",
+  "recon": {
+    "observer": {
+      "items": [
+        {
+          "channel": "sight",
+          "layer": "surface_and_air",
+          "radius": 100,
+          "shape": "capsule"
+        },
+        {
+          "channel": "sight",
+          "layer": "underwater",
+          "radius": 100,
+          "shape": "capsule"
+        }
+      ]
+    }
+  }
+}

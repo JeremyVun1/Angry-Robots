@@ -1,0 +1,7 @@
+{
+  "base_spec": "/pa/units/parent/land/bot_tactical_missile/bot_tactical_missile_tool_weapon.json",
+  "max_range": 250,
+  "target_layers": [
+    "Orbital"
+  ]
+}

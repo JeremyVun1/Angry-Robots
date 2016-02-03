@@ -1,0 +1,7 @@
+{
+  "base_spec": "/pa/units/parent/land/tank_flak/tank_flak_ammo.json",
+  "damage": 90,
+  "full_damage_splash_radius": 40,
+  "splash_damage": 90,
+  "splash_radius": 90
+}

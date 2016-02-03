@@ -1,0 +1,18 @@
+{
+  "base_spec": "/pa/units/parent/air/bomber_adv/bomber_adv.json",
+  "navigation": {
+    "move_speed": 30,
+	"acceleration": 30,
+	"brake": 30,
+	"aggressive_distance": 250,
+    "turn_speed": 90
+  },
+  "build_metal_cost": 1600,
+  "tools": [
+    {
+      "aim_bone": "bone_root",
+      "muzzle_bone": "bone_root",
+      "spec_id": "/pa/units/air/bomber_adv/bomber_adv_tool_weapon.json"
+    }
+  ]
+}

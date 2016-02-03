@@ -1,0 +1,27 @@
+{
+  "base_spec": "/pa/units/parent/land/land_scout/land_scout.json",
+  "recon": {
+    "observer": {
+      "items": [
+        {
+          "channel": "sight",
+          "layer": "surface_and_air",
+          "radius": 250,
+          "shape": "capsule"
+        },
+        {
+          "channel": "sight",
+          "layer": "underwater",
+          "radius": 250,
+          "shape": "capsule"
+        },
+        {
+          "channel": "sight",
+          "layer": "mine",
+          "radius": 250,
+          "shape": "capsule"
+        }
+      ]
+    }
+  }
+}

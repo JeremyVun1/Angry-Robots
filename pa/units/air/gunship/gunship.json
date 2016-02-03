@@ -1,0 +1,61 @@
+{
+  "base_spec": "/pa/units/parent/air/gunship/gunship.json",
+  "build_metal_cost": 600,
+  "events": {
+    "fired0": {
+      "audio_cue": "/SE/Weapons/air/gunship_fire",
+      "effect_spec": "/pa/units/air/gunship/gunship_muzzle_flash.pfx socket_rightMuzzle /pa/units/air/gunship/gunship_muzzle_flash.pfx socket_leftMuzzle"
+    },
+	"fired1": {
+      "audio_cue": "/SE/Weapons/structure/air_defense_fire",
+      "effect_spec": "/pa/effects/default_gun_smoke.pfx socket_rightMuzzle /pa/effects/default_gun_smoke.pfx socket_leftMuzzle"
+    }
+  },
+  "max_health": 220,
+  "navigation": {
+    "move_speed": 60,
+    "turn_speed": 240
+  },
+  "recon": {
+    "observer": {
+      "items": [
+        {
+          "channel": "sight",
+          "layer": "surface_and_air",
+          "radius": 150,
+          "shape": "capsule"
+        },
+        {
+          "channel": "sight",
+          "layer": "underwater",
+          "radius": 150,
+          "shape": "capsule"
+        }
+      ]
+    }
+  },
+  "tools": [
+    {
+      "aim_bone": "bone_rightRecoil",
+      "muzzle_bone": "socket_rightMuzzle",
+	  "fire_event": "fired0",
+      "spec_id": "/pa/units/air/gunship/gunship_tool_weapon.json"
+    },
+	{
+      "aim_bone": "bone_leftRecoil",
+      "muzzle_bone": "socket_leftMuzzle",
+      "spec_id": "/pa/units/air/gunship/gunship_tool_weapon.json"
+    },
+	{
+      "aim_bone": "bone_rightRecoil",
+      "muzzle_bone": "socket_rightMuzzle",
+	  "fire_event": "fired1",
+      "spec_id": "/pa/units/air/gunship/gunship_missile_tool_weapon.json"
+    },
+	{
+      "aim_bone": "bone_leftRecoil",
+      "muzzle_bone": "socket_leftMuzzle",
+      "spec_id": "/pa/units/air/gunship/gunship_missile_tool_weapon.json"
+    }
+  ]
+}

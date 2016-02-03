@@ -1,0 +1,26 @@
+{
+  "base_spec": "/pa/units/parent/sea/missile_ship/missile_ship_aa_ammo.json",
+  "stages": [
+    {
+      "ignores_LOS": true,
+      "ignores_gravity": true,
+      "rotates_to_velocity": true,
+      "stage_duration": 25,
+      "stage_turn_rate": 240
+    },
+    {
+      "ignores_LOS": true,
+      "ignores_gravity": true,
+      "rotates_to_velocity": true,
+      "stage_duration": 50,
+      "stage_turn_rate": 720
+    },
+    {
+      "ignores_LOS": false,
+      "ignores_gravity": true,
+      "rotates_to_velocity": true,
+      "stage_duration": 10000,
+      "stage_turn_rate": 3600
+    }
+  ]
+}

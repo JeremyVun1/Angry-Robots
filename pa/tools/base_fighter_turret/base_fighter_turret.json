@@ -1,0 +1,10 @@
+{
+  "base_spec": "/pa/tools/parent/base_fighter_turret/base_fighter_turret.json",
+  "target_priorities": [
+	"Fighter",
+    "Mobile - Air",
+    "Naval",
+    "Structure - Wall",
+    "Wall"
+  ]
+}

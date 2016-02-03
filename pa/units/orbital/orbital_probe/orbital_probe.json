@@ -1,0 +1,5 @@
+{
+  "base_spec": "/pa/units/parent/orbital/orbital_probe/orbital_probe.json",
+  "gravwell_velocity_multiplier": 16.0,
+  "system_velocity_multiplier": 40.0
+}
