@@ -1,6 +1,6 @@
 {
   "base_spec": "/pa/units/parent/orbital/orbital_battleship/orbital_battleship.json",
-  "build_metal_cost": 12000,
+  "build_metal_cost": 13000,
   "max_health": 6500,  
   "events": {
     "build_complete": {

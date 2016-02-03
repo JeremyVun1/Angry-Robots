@@ -5,8 +5,8 @@
     "Balance"
   ],
   "context": "server",
-  "date": "2016/01/25",
-  "description": "Light balance rework mod addressing the game's limited scope of viable choices",
+  "date": "2016/02/03",
+  "description": "Rework of PA: Titans - making weak units not so weak",
   "display_name": "Angry Robots dev",
   "enabled": true,
   "forum": "https://forums.uberent.com/threads/angry-robots.71297/#post-1123436",

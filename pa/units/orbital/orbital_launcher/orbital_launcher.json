@@ -1,5 +1,5 @@
 {
   "base_spec": "/pa/units/parent/orbital/orbital_launcher/orbital_launcher.json",
   "build_metal_cost": 900,
-  "max_health": 4500
+  "max_health": 4000
 }
