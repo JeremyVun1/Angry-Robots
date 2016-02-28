@@ -1,6 +1,6 @@
 {
-  "ammo_capacity": 4,
-  "ammo_demand": 0.35,
+  "ammo_capacity": 3,
+  "ammo_demand": 0.275,
   "ammo_id": "/pa/units/air/bomber_adv/bomber_adv_ammo.json",
   "ammo_per_shot": 1,
   "ammo_source": "time",
@@ -18,7 +18,7 @@
   "max_range": 250,
   "pitch_range": 180,
   "pitch_rate": 3600,
-  "rate_of_fire": 5,
+  "rate_of_fire": 3,
   "spread_fire": true,
   "target_layers": [
     "WL_LandHorizontal",

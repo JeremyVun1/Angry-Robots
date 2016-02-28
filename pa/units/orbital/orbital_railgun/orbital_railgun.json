@@ -1,10 +1,10 @@
 {
   "base_spec": "/pa/units/parent/orbital/orbital_railgun/orbital_railgun.json",
-  "build_metal_cost": 2400,
+  "build_metal_cost": 2600,
   "description": "!LOC:Railgun Platform- Long-range. High damage. Very low rate of fire, can attack anything",
   "guard_layer": "WL_AnySurface",
   "planetary_arrival_cooldown_time": 4.0,
-  "max_health": 250,
+  "max_health": 300,
   "navigation": {
     "acceleration": 10,
 	"aggressive_distance": 300,

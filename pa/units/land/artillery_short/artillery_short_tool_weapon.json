@@ -6,7 +6,6 @@
   "ammo_source": "energy",
   "auto_attack": true,
   "base_spec": "/pa/units/parent/land/artillery_short/artillery_short_tool_weapon.json",
-  "max_range": 240,
-  "min_firing_velocity": 80,
+  "max_range": 250,
   "rate_of_fire": 0.17
 }

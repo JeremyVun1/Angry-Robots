@@ -1,5 +1,5 @@
 {
   "base_spec": "/pa/units/parent/air/gunship/gunship_tool_weapon.json",
   "maxe_range": 70,
-  "rate_of_fire": 1.4
+  "rate_of_fire": 2
 }

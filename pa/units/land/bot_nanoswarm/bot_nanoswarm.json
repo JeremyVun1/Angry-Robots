@@ -1,5 +1,13 @@
 {
   "base_spec": "/pa/units/parent/land/bot_nanoswarm/bot_nanoswarm.json",
+  "navigation": {
+    "acceleration": 400,
+    "brake": 400,
+    "group_preference": "back",
+    "move_speed": 35,
+    "turn_speed": 1080,
+    "type": "hover"
+  },
   "recon": {
     "observer": {
       "items": [

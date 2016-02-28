@@ -28,7 +28,6 @@
       "effect_spec": "/pa/units/sea/drone_carrier/carrier/carrier_drone_launch.pfx socket_muzzle03 /pa/units/sea/drone_carrier/carrier/carrier_drone_launch.pfx socket_muzzle04"
     },
     "fired2": {
-      "audio_cue": "/SE/Weapons/orb/umbrella_mis_anti_unitcannon_fire",
       "effect_scale": 4.0,
       "effect_spec": "/pa/units/sea/drone_carrier/carrier/carrier_drone_launch.pfx socket_muzzle05 /pa/units/sea/drone_carrier/carrier/carrier_drone_launch.pfx socket_muzzle06"
     },

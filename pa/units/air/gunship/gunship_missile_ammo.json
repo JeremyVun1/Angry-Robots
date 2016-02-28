@@ -11,15 +11,15 @@
   },
   "physics": {
     "add_to_spatial_db": false,
-    "gravity_scalar": 3,
+    "gravity_scalar": 2.5,
     "ignore_gravity": false,
     "radius": 1
   },
-  "damage": 25,
+  "damage": 30,
   "full_damage_splash_radius": 3,
   "initial_velocity": 90.0,
-  "lifetime": 2,
+  "lifetime": 3,
   "max_velocity": 150.0,
-  "splash_damage": 20,
+  "splash_damage": 30,
   "splash_radius": 10
 }

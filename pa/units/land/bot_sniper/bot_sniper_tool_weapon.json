@@ -1,5 +1,5 @@
 {
   "base_spec": "/pa/units/parent/land/bot_sniper/bot_sniper_tool_weapon.json",
-  "yaw_rate": 160,
+  "yaw_rate": 180,
   "max_range": 200
 }

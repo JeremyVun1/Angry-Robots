@@ -7,7 +7,7 @@
       "effect_spec": "/pa/units/sea/drone_carrier/carrier/carrier_drone_launch.pfx bone_root"
     }
   },
-  "max_health": 2000,
+  "max_health": 1900,
   "navigation": {
     "move_speed": 30
   },

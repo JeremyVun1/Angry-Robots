@@ -5,14 +5,14 @@
     "Balance"
   ],
   "context": "server",
-  "date": "2016/02/03",
+  "date": "2016/02/28",
   "description": "Rework of PA: Titans - making weak units not so weak",
-  "display_name": "Angry Robots dev",
+  "display_name": "Angry Robots",
   "enabled": true,
   "forum": "https://forums.uberent.com/threads/angry-robots.71297/#post-1123436",
   "icon": "",
-  "identifier": "com.pa.angry.robots.dev",
+  "identifier": "com.pa.angry.robots",
   "priority": 100,
   "signature": "(not yet implemented)",
-  "version": "1.4"
+  "version": "1.5"
 }

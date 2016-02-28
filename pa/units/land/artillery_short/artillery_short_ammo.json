@@ -2,7 +2,7 @@
 	"armor_damage_map": {
 		"AT_Structure": 1.5
   },
-  "base_spec": "/pa/units/parent/land/artiillery_short/artillery_short_ammo.json",
+  "base_spec": "/pa/units/parent/land/artillery_short/artillery_short_ammo.json",
   "damage": 250,
   "full_damage_splash_radius": 0,
   "splash_damage": 150,

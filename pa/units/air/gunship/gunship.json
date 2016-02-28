@@ -11,7 +11,7 @@
       "effect_spec": "/pa/effects/default_gun_smoke.pfx socket_rightMuzzle /pa/effects/default_gun_smoke.pfx socket_leftMuzzle"
     }
   },
-  "max_health": 220,
+  "max_health": 250,
   "navigation": {
     "move_speed": 60,
     "turn_speed": 240
@@ -37,24 +37,20 @@
   "tools": [
     {
       "aim_bone": "bone_rightRecoil",
-      "muzzle_bone": "socket_rightMuzzle",
+      "muzzle_bone": [
+		"socket_rightMuzzle",
+		"socket_leftMuzzle"
+	  ],	  
 	  "fire_event": "fired0",
       "spec_id": "/pa/units/air/gunship/gunship_tool_weapon.json"
     },
 	{
-      "aim_bone": "bone_leftRecoil",
-      "muzzle_bone": "socket_leftMuzzle",
-      "spec_id": "/pa/units/air/gunship/gunship_tool_weapon.json"
-    },
-	{
       "aim_bone": "bone_rightRecoil",
-      "muzzle_bone": "socket_rightMuzzle",
+      "muzzle_bone": [
+		"socket_rightMuzzle",
+		"socket_leftMuzzle"
+	  ],
 	  "fire_event": "fired1",
-      "spec_id": "/pa/units/air/gunship/gunship_missile_tool_weapon.json"
-    },
-	{
-      "aim_bone": "bone_leftRecoil",
-      "muzzle_bone": "socket_leftMuzzle",
       "spec_id": "/pa/units/air/gunship/gunship_missile_tool_weapon.json"
     }
   ]
